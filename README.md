@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Edgar RG
 
-<!--
-**Edgarg2-4/Edgarg2-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!  
+Soy estudiante y desarrollador apasionado por los **sistemas embebidos**, la **electrónica** y la **programación**. Siempre busco aprender algo nuevo, compartir conocimiento y construir soluciones prácticas usando tecnología.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías con las que trabajo
+- ⚡ **C / C++**
+- 🐍 **Python**
+- 📟 **Sistemas embebidos:** STM32, Tiva
+- 🌐 **Git y GitHub**
+- 🔲 **FPGA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- [Sistemas-Embebidos](https://github.com/Edgarg2-4/Sistemas-Embebidos):  
+  Códigos para pantalla OLED, sensor VL53x01 y SIM800L
+- [ST](https://github.com/Edgarg2-4/ST):  
+  Proyecto de código para pantalla OLED
+
+## 🌟 Más sobre mí
+- 🎓 Actualmente estudiante, siempre aprendiendo algo nuevo.
+- 🤝 Me encanta colaborar y contribuir a proyectos open source.
+- 📬 ¿Quieres contactar?  
+  ¡Puedes encontrarme aquí en GitHub!
+
+---
+
+> “La mejor manera de predecir el futuro es crearlo.”  
