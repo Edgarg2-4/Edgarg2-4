@@ -24,4 +24,3 @@ Soy estudiante y desarrollador apasionado por los **sistemas embebidos**, la **e
 
 ---
 
-> “La mejor manera de predecir el futuro es crearlo.”  
